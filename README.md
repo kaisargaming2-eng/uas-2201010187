@@ -31,7 +31,6 @@ http://localhost/uas-2201010187/
 
 Repository
 
-Project UAS Web Design — Muhammad Kaisar Rahman
-NIM: 2201010187
+Project UAS Web Design 
 
-© 2026 Muhammad Kaisar Rahman
+
