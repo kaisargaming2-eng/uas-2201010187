@@ -16,7 +16,7 @@ CodeIgniter
 HTML
 CSS
 JavaScript
-MySQL
+
 
 Project UAS pemprograman web
 
