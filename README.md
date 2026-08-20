@@ -17,20 +17,8 @@ HTML
 CSS
 JavaScript
 MySQL
-Cara Menjalankan
-Clone repository ini ke komputer.
-Pastikan XAMPP atau web server lainnya sudah terpasang.
-Letakkan folder project di dalam folder htdocs.
-Jalankan Apache dan MySQL melalui XAMPP.
-Jika project menggunakan database, buat database sesuai konfigurasi project.
-Sesuaikan konfigurasi database pada project.
-Buka browser.
-Jalankan project melalui alamat:
 
-http://localhost/uas-2201010187/
+Project UAS pemprograman web
 
-Repository
-
-Project UAS Web Design 
 
 
