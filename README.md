@@ -1,12 +1,37 @@
-# UAS Web Design - Muhammad Kaisar Rahman
+UAS Web Design — 2201010187
+Identitas
 
-**Nama:** Muhammad Kaisar Rahman  
-**NIM:** 2201010187
+Nama: Muhammad Kaisar Rahman
+NIM: 2201010187
 
-Project ini dibuat dengan struktur aplikasi bergaya CodeIgniter untuk tugas UAS Web Design. Struktur `application` dipisahkan menjadi config, controllers, models, views, helpers, libraries, core, language, hooks, logs, cache, dan third_party.
+Deskripsi Project Codelgniter 
 
-## Cara menjalankan
-1. Salin folder ke `htdocs` jika memakai XAMPP.
-2. Jalankan Apache.
-3. Buka `http://localhost/uas_muhammad_kaisar_rahman/`.
-4. Untuk GitHub, upload seluruh isi folder project ini ke repository baru.
+Project ini merupakan tugas UAS Web Design yang dibuat menggunakan CodeIgniter. Website ini dibuat sebagai implementasi dari materi pemrograman web dengan menerapkan struktur dan konsep framework CodeIgniter.
+
+Project mencakup halaman website, tampilan antarmuka, serta komponen yang diperlukan sesuai dengan ketentuan tugas UAS.
+
+Teknologi yang Digunakan
+PHP
+CodeIgniter
+HTML
+CSS
+JavaScript
+MySQL
+Cara Menjalankan
+Clone repository ini ke komputer.
+Pastikan XAMPP atau web server lainnya sudah terpasang.
+Letakkan folder project di dalam folder htdocs.
+Jalankan Apache dan MySQL melalui XAMPP.
+Jika project menggunakan database, buat database sesuai konfigurasi project.
+Sesuaikan konfigurasi database pada project.
+Buka browser.
+Jalankan project melalui alamat:
+
+http://localhost/uas-2201010187/
+
+Repository
+
+Project UAS Web Design — Muhammad Kaisar Rahman
+NIM: 2201010187
+
+© 2026 Muhammad Kaisar Rahman
